@@ -27,7 +27,21 @@ We use MiLMo for the downstream experiment of text classification on MiTC.
 [Word2vec](https://huggingface.co/CMLI-NLP/MiLMo)  
 [Data Set](https://huggingface.co/CMLI-NLP/MiLMo)  
 
-## Cite
-Deng J, Shi H, Yu X, et al. Milmo: minority multilingual pre-trained language model[C]//2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2023: 329-334.
+## Citation
 
-**EI indexing website for [papers](https://ieeexplore.ieee.org/document/10393961)**
+Plain Text:  
+J. Deng, H. Shi, X. Yu, W. Bao, Y. Sun and X. Zhao, "MiLMo:Minority Multilingual Pre-Trained Language Model," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Honolulu, Oahu, HI, USA, 2023, pp. 329-334, doi: 10.1109/SMC53992.2023.10393961.
+
+BibTeX:
+```
+@INPROCEEDINGS{10393961,
+  author={Deng, Junjie and Shi, Hanru and Yu, Xinhe and Bao, Wugedele and Sun, Yuan and Zhao, Xiaobing},
+  booktitle={2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}, 
+  title={MiLMo:Minority Multilingual Pre-Trained Language Model}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={329-334},
+  keywords={Soft sensors;Text categorization;Social sciences;Government;Data acquisition;Morphology;Data models;Multilingual;Pre-trained language model;Datasets;Word2vec},
+  doi={10.1109/SMC53992.2023.10393961}}
+```
