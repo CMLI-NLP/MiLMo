@@ -31,6 +31,3 @@ We use MiLMo for the downstream experiment of text classification on MiTC.
 Deng J, Shi H, Yu X, et al. Milmo: minority multilingual pre-trained language model[C]//2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2023: 329-334.
 
 **EI indexing website for [papers](https://ieeexplore.ieee.org/document/10393961)**
-
-## Contact us
-**Email: TibetanQA_Office@163.com**
