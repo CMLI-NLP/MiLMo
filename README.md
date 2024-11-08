@@ -10,7 +10,7 @@ We construct a multilingual pre-trained model named MiLMo that performs better o
 
 (3) To solve the problem of scarcity of minority language datasets, we construct a classification dataset MiTC containing five languages, including Mongolian, Tibetan, Uyghur, Kazakh and Korean, and publishes the word2vec representation, multilingual pre-trained model Mi XLM and multilingual classification dataset MiTC.
 
-## Experimental Result:
+## Experimental Result
 
 We obtain the training data of five minority languages, including Mongolian, Tibetan, Uyghur, Kazakh and Korean, The word segmentation results of the five languages are shown in Table 1.
 
@@ -45,3 +45,7 @@ BibTeX:
   keywords={Soft sensors;Text categorization;Social sciences;Government;Data acquisition;Morphology;Data models;Multilingual;Pre-trained language model;Datasets;Word2vec},
   doi={10.1109/SMC53992.2023.10393961}}
 ```
+
+## Disclaimer
+
+This dataset/model is for academic research purposes only. Prohibited for any commercial or unethical purposes.
